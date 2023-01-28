@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritesh Dubey
 - 👀 I’m interested in Full Stack Web Developement
-- 📫 How to reach me at 0xchikku@gmail.com
+- 📫 Reach me at 0xchikku@gmail.com
 
 <!---
 0xchikku/0xchikku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
