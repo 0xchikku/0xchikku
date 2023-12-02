@@ -90,7 +90,7 @@ Feel free to reach out to me. I'm always open to collaboration and new opportuni
 ### GitHub Stats
 
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=0xchikku&show_icons=true&locale=en&layout=compact) --->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xchikku&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xchikku&show_icons=true&locale=en&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xchikku)
 
 
