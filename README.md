@@ -71,11 +71,9 @@ Feel free to reach out to me. I'm always open to collaboration and new opportuni
 
 Thanks for visiting my GitHub profile! 😊
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xchikku&show_icons=true&locale=en&layout=compact" alt="0xchikku" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xchikku&show_icons=true&locale=en" alt="0xchikku" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xchikku&" alt="0xchikku" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xchikku&show_icons=true&locale=en&layout=compact" alt="0xchikku" /></p>
 
 <!---
 0xchikku/0xchikku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
