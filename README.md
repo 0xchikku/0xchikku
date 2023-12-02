@@ -85,13 +85,17 @@ Feel free to reach out to me. I'm always open to collaboration and new opportuni
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:0xchikku@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/_riteshdubey_?logo=twitter&style=for-the-badge)](https://twitter.com/_riteshdubey_) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/-ritesh-dubey/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://www.leetcode.com/ritesh-dubey/)
 
+
+<!--- 
 ---
 
 ### GitHub Stats
 
-<!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=0xchikku&show_icons=true&locale=en&layout=compact) --->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=0xchikku&show_icons=true&locale=en&layout=compact) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xchikku&show_icons=true&locale=en&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xchikku)
+--->
 
 
 <!---
