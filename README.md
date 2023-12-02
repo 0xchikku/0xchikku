@@ -15,24 +15,12 @@ I'm a passionate Full Stack Developer based in India 🇮🇳. My goal is to cre
 ### 💼 Skills
 
 - **Front-end**:
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) HTML
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) CSS
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) React
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) Next.js
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) Redux
-  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
 - **Back-end**:
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Node.js
-- ![Hapi.js](https://img.shields.io/badge/-Hapi.js-7D58C1?logo=hapi.js&logoColor=white) Hapi.js
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Express.js
-
-- 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Hapi.js](https://img.shields.io/badge/-Hapi.js-7D58C1?logo=hapi.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 - **Database**:
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) PostgreSQL
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white) ![Joi](https://img.shields.io/badge/-Joi-F44E46?logo=joi&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?logo=mongoose&logoColor=white)
 
-- 
 - **Version Control**:
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Git
   
