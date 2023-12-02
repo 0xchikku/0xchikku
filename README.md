@@ -14,11 +14,33 @@ I'm a passionate Full Stack Developer based in India 🇮🇳. My goal is to cre
 
 ### 💼 Skills
 
-- **Front-end**: HTML, CSS, JavaScript, React, Next.js, Redux
-- **Back-end**: Node.js, hapi.js
-- **Database**: MongoDB, PostgreSQL
-- **Version Control**: Git, GitHub, BitBucket
-- **Other**: RESTful APIs, Problem Solving, Elasticsearch, Sequelize, Joi, Mongoose, Firebase
+- **Front-end**:
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) HTML
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) CSS
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) React
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) Next.js
+- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) Redux
+  
+- **Back-end**:
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Node.js
+- ![Hapi.js](https://img.shields.io/badge/-Hapi.js-7D58C1?logo=hapi.js&logoColor=white) Hapi.js
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Express.js
+
+- 
+- **Database**:
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) PostgreSQL
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
+
+- 
+- **Version Control**:
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Git
+  
+- **Other**:
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) GitHub
+- ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) Bitbucket
+
+- RESTful APIs, Problem Solving, Elasticsearch, Sequelize, Joi, Mongoose, Firebase
   
 ---
 <!---
