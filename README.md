@@ -4,11 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritesh+Dubey!;" />
 </h1>
 
-<h2>
+<h3>
     <p>
-        I'm a passionate Full Stack Developer based in India 🇮🇳. My goal is to create meaningful and innovative web applications that solve real-world problems. I love working with cutting-edge technologies and collaborating with other developers to build amazing things.
+        <ul>
+            <li>I'm a passionate Full Stack Developer based in India 🇮🇳.</li>
+            <li>My goal is to create meaningful and innovative web applications that solve real-world problems</li>
+            <li>I love working with cutting-edge technologies and collaborating with other developers to build amazing things</li>
+        </ul>
     </p>
-</h2>
+</h3>
 
 <!---
 🌐 **Portfolio**: [Your Portfolio Website](https://www.yourwebsite.com)
@@ -81,7 +85,7 @@ Feel free to reach out to me. I'm always open to collaboration and new opportuni
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_riteshdubey_?logo=twitter&style=for-the-badge)](https://twitter.com/_riteshdubey_) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/-ritesh-dubey/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://www.leetcode.com/ritesh-dubey/)
 
-
+---
 
 ### GitHub Stats
 
@@ -89,7 +93,6 @@ Feel free to reach out to me. I'm always open to collaboration and new opportuni
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xchikku&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xchikku)
 
-Thanks for visiting my GitHub profile! 😊
 
 <!---
 0xchikku/0xchikku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
