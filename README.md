@@ -20,15 +20,10 @@ I'm a passionate Full Stack Developer based in India 🇮🇳. My goal is to cre
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Hapi.js](https://img.shields.io/badge/-Hapi.js-7D58C1?logo=hapi.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 - **Database**:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white) ![Joi](https://img.shields.io/badge/-Joi-F44E46?logo=joi&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?logo=mongoose&logoColor=white)
-
 - **Version Control**:
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Git
-  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - **Other**:
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) GitHub
-- ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) Bitbucket
-
-- RESTful APIs, Problem Solving, Elasticsearch, Sequelize, Joi, Mongoose, Firebase
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-005571?logo=rest&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
   
 ---
 <!---
