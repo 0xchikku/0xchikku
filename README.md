@@ -4,7 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritesh+Dubey!;" />
 </h1>
 
-I'm a passionate Full Stack Developer based in India 🇮🇳. My goal is to create meaningful and innovative web applications that solve real-world problems. I love working with cutting-edge technologies and collaborating with other developers to build amazing things.
+<h2>
+    <p>
+        I'm a passionate Full Stack Developer based in India 🇮🇳. My goal is to create meaningful and innovative web applications that solve real-world problems. I love working with cutting-edge technologies and collaborating with other developers to build amazing things.
+    </p>
+</h2>
 
 <!---
 🌐 **Portfolio**: [Your Portfolio Website](https://www.yourwebsite.com)
@@ -70,17 +74,22 @@ I occasionally write about web development and tech-related topics. Check out so
 
 --->
 
+
 ### 🤝 Let's Connect
 
 Feel free to reach out to me. I'm always open to collaboration and new opportunities:
 
-- 🐦 Twitter: [Twitter Profile](https://twitter.com/_RiteshDubey_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_riteshdubey_?logo=twitter&style=for-the-badge)](https://twitter.com/_riteshdubey_) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ritesh-dubey_) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://www.leetcode.com/ritesh-dubey/)
+
+
+
+### GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=0xchikku&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xchikku&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xchikku)
 
 Thanks for visiting my GitHub profile! 😊
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xchikku&show_icons=true&locale=en" alt="0xchikku" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xchikku&" alt="0xchikku" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xchikku&show_icons=true&locale=en&layout=compact" alt="0xchikku" /></p>
 
 <!---
 0xchikku/0xchikku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
