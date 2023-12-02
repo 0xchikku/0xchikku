@@ -1,4 +1,8 @@
-### Hi there, I'm Ritesh Dubey 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=0xchikku.0xchikku" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritesh+Dubey!;" />
+</h1>
 
 I'm a passionate Full Stack Developer based in India 🇮🇳. My goal is to create meaningful and innovative web applications that solve real-world problems. I love working with cutting-edge technologies and collaborating with other developers to build amazing things.
 
@@ -67,6 +71,11 @@ Feel free to reach out to me. I'm always open to collaboration and new opportuni
 
 Thanks for visiting my GitHub profile! 😊
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xchikku&show_icons=true&locale=en&layout=compact" alt="0xchikku" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xchikku&show_icons=true&locale=en" alt="0xchikku" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xchikku&" alt="0xchikku" /></p>
 
 <!---
 0xchikku/0xchikku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
