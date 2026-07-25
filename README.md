@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=0xchikku.0xchikku" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritesh+Dubey!;Full+Stack+%2B+AI+Engineer;I+build+AI-powered+products" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritesh+Dubey!;Senior+Software+Engineer;AI+Application+Engineer;I+build+AI-powered+products" />
 </h1>
 
 <h3 align="center">
-    Senior Full-Stack Software Engineer · AI Application Engineer · 4 years building production AI systems
+    Senior Software Engineer · AI Application Engineer · 4 years building production AI systems
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About
 
-- Senior Full-Stack Software Engineer with **4+ years** of experience building **AI-powered tools, integrations, and scalable backend systems**.
+- Senior Software Engineer with **4+ years** of experience building **AI-powered tools, integrations, and scalable backend systems**.
 - Shipped production AI applications — including an **AI chatbot** and an **RFP automation platform** — that compressed multi-day workflows to minutes by leveraging **LLMs, RAG, vector databases, and evaluation workflows**.
 - Strong track record of **end-to-end ownership** — from product ideation to deployment — across frontend, backend, and integration layers.
 - *I use AI as a core part of how I code, debug, and ship — not as an add-on.*
@@ -30,8 +30,11 @@
 - **AI Engineering**:
   ![LLMs](https://img.shields.io/badge/-LLM%20Applications-412991?logo=openai&logoColor=white)
   ![RAG](https://img.shields.io/badge/-RAG-FF6F00?logoColor=white)
+  ![AI%20Agents](https://img.shields.io/badge/-AI%20Agents-412991?logoColor=white)
   ![Prompt%20Engineering](https://img.shields.io/badge/-Prompt%20Engineering-412991?logoColor=white)
+  ![Tool%20Calling](https://img.shields.io/badge/-Tool%20Calling-412991?logoColor=white)
   ![Vector%20Search](https://img.shields.io/badge/-Vector%20Search-03A57D?logo=pinecone&logoColor=white)
+  ![Embedding%20Models](https://img.shields.io/badge/-Embedding%20Models-03A57D?logoColor=white)
   ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?logo=openai&logoColor=white)
   ![MCP](https://img.shields.io/badge/-MCP-000000?logoColor=white)
 - **Languages**:
@@ -43,7 +46,13 @@
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
   ![Hapi.js](https://img.shields.io/badge/-Hapi.js-7D58C1?logo=hapi.js&logoColor=white)
+  ![Webhooks](https://img.shields.io/badge/-Webhooks-6B3FA0?logoColor=white)
+  ![Event-Driven](https://img.shields.io/badge/-Event--Driven%20Architecture-6B3FA0?logoColor=white)
   ![BullMQ](https://img.shields.io/badge/-BullMQ-D82C20?logoColor=white)
+  ![Message%20Queues](https://img.shields.io/badge/-Message%20Queues-D82C20?logoColor=white)
+  ![Background%20Jobs](https://img.shields.io/badge/-Background%20Jobs-D82C20?logoColor=white)
+  ![Retry%20&%20Rate%20Limiting](https://img.shields.io/badge/-Retry%20%26%20Rate%20Limiting-D82C20?logoColor=white)
+  ![Failure%20Handling](https://img.shields.io/badge/-Failure%20Handling-D82C20?logoColor=white)
 - **Frontend**:
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
@@ -57,6 +66,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/-CI/CD-232F3E?logoColor=white)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
   ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 - **AI Developer Tools**:
@@ -64,11 +74,17 @@
   ![GitHub%20Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
   ![Claude%20Code](https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white)
   ![Kiro](https://img.shields.io/badge/-Kiro%20IDE-7C3AED?logoColor=white)
+  ![OpenCode](https://img.shields.io/badge/-OpenCode-000000?logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 - **Version Control**:
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+- **Engineering Practices**:
+  ![Product-Minded](https://img.shields.io/badge/-Product--Minded%20Engineering-6B3FA0?logoColor=white)
+  ![Cross-Functional](https://img.shields.io/badge/-Cross--Functional%20Collaboration-6B3FA0?logoColor=white)
+  ![Agile](https://img.shields.io/badge/-Agile-6B3FA0?logoColor=white)
+  ![E2E%20Ownership](https://img.shields.io/badge/-End--to--End%20Ownership-6B3FA0?logoColor=white)
 
 ---
 
@@ -86,6 +102,13 @@
    - Owned the integrations module powering thousands of customer workflows via HubSpot, Zendesk, Freshdesk, Intercom, Confluence, and Slack.
    - Architected scalable webhook and event-driven systems with retry, rate-limiting, and failure-handling layers.
    - **Impact:** Reduced data-loss incidents by **99%** in high-throughput async workflows.
+
+---
+
+### 🎓 Education
+
+- **Bachelor's in Computer Application** — 86% | Jayagovind Harigopal Agarwal Agarsen College | 2019 – 2022
+- **HSC – Mathematics & Computer Science** — 75% | Seventh Day Adventist Higher Secondary School | 2018
 
 ---
 
