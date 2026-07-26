@@ -8,14 +8,9 @@
     Senior Software Engineer · AI Application Engineer · 4 years building production AI systems
 </h3>
 
-<p align="center">
-  <a href="https://ritesh-dubey.netlify.app"><b>Profile</b></a> &nbsp;·&nbsp;
-  <a href="mailto:ritesh.dubey.dev@gmail.com"><b>ritesh.dubey.dev@gmail.com</b></a>
-</p>
-
 ---
 
-### 👨‍💻 About
+### 👨‍💻 About - <a href="https://ritesh-dubey.netlify.app"><b>Profile</b></a> &nbsp;
 
 - Senior Software Engineer with **4+ years** of experience building **AI-powered tools, integrations, and scalable backend systems**.
 - Shipped production AI applications — including an **AI chatbot** and an **RFP automation platform** — that compressed multi-day workflows to minutes by leveraging **LLMs, RAG, vector databases, and evaluation workflows**.
